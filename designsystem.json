@@ -1,0 +1,168 @@
+{
+  "global": {},
+  "typofraphy": {
+    "typography": {
+      "bottom-header": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "32px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "40px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "-0.5px",
+          "type": "other"
+        }
+      },
+      "subheader": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "28px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "36px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "-0.3px",
+          "type": "other"
+        }
+      },
+      "body": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "20px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "28px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "0px",
+          "type": "other"
+        }
+      },
+      "body-bold": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "700",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "20px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "28px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "0px",
+          "type": "other"
+        }
+      },
+      "button": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "600",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "18px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "24px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "0.2px",
+          "type": "other"
+        }
+      },
+      "caption": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "14px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "20px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "0.1px",
+          "type": "other"
+        }
+      },
+      "caption-sm": {
+        "fontFamily": {
+          "value": "Pretendard",
+          "type": "other"
+        },
+        "fontWeight": {
+          "value": "400",
+          "type": "other"
+        },
+        "fontSize": {
+          "value": "12px",
+          "type": "other"
+        },
+        "lineHeight": {
+          "value": "16px",
+          "type": "other"
+        },
+        "letterSpacing": {
+          "value": "0.1px",
+          "type": "other"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "typofraphy"
+    ]
+  }
+}
